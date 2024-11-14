@@ -1,0 +1,275 @@
+[
+  {
+    "id": 121,
+    "player": "Gao Chen",
+    "position": "DF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 122,
+    "player": "Wu Chengshu",
+    "position": "FW|MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 235,
+    "player": "Wu Haiyan",
+    "position": "DF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 258,
+    "player": "Xu Huan",
+    "position": "GK",
+    "squad": "China PR",
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 283,
+    "player": "Lou Jiahui",
+    "position": "FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 2.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 284,
+    "player": "Tang Jiali",
+    "position": "FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 285,
+    "player": "Dou Jiaxing",
+    "position": "DF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 326,
+    "player": "Yang Lina",
+    "position": "MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 328,
+    "player": "Yao Lingwei",
+    "position": "MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 330,
+    "player": "Wang Linlin",
+    "position": "FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 331,
+    "player": "Zhang Linyan",
+    "position": "MF|FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 366,
+    "player": "Li Mengwen",
+    "position": "DF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 367,
+    "player": "Shen Mengyu",
+    "position": "MF|FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 451,
+    "player": "Chen Qiaozhu",
+    "position": "DF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 488,
+    "player": "Zhang Rui",
+    "position": "MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 519,
+    "player": "Wang Shanshan",
+    "position": "DF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 525,
+    "player": "Wang Shuang",
+    "position": "FW|MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 1.8,
+      "goals": 2,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 603,
+    "player": "Yao Wei",
+    "position": "DF|MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 609,
+    "player": "Zhang Xin",
+    "position": "FW|MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 612,
+    "player": "Gu Yasha",
+    "position": "MF|FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 615,
+    "player": "Zhu Yu",
+    "position": "GK",
+    "squad": "China PR",
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  }
+]

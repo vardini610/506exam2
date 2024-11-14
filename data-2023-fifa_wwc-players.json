@@ -1,0 +1,9906 @@
+[
+  {
+    "id": 1,
+    "player": "Teresa Abelleira",
+    "position": "MF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 6.7,
+      "goals": 1,
+      "shots": 10,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 2,
+    "player": "Deborah Abiodun",
+    "position": "MF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 3,
+    "player": "Adriana",
+    "position": "MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 0,
+      "shots": 8,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 4,
+    "player": "Lily Agg",
+    "position": "MF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 5,
+    "player": "Eseosa Aigbogun",
+    "position": "DF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 3.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 6,
+    "player": "Rasheedat Ajibade",
+    "position": "FW",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.3,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 7,
+    "player": "Michelle Alozie",
+    "position": "DF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 8,
+    "player": "Katherine Alvarado",
+    "position": "MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 9,
+    "player": "Lúcia Alves",
+    "position": "DF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 10,
+    "player": "Catarina Amado",
+    "position": "DF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 11,
+    "player": "Salma Amani",
+    "position": "FW",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 12,
+    "player": "Jonna Andersson",
+    "position": "DF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 6.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 13,
+    "player": "Lady Andrade",
+    "position": "FW",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 14,
+    "player": "Ivana Andrés",
+    "position": "DF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 15,
+    "player": "Andressa",
+    "position": "FW",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 16,
+    "player": "Filippa Angeldahl",
+    "position": "MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 5.8,
+      "goals": 1,
+      "shots": 12,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 17,
+    "player": "Nguyễn Thị Mỹ Anh",
+    "position": "DF,MF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 18,
+    "player": "Tahnai Annis",
+    "position": "DF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 19,
+    "player": "Antônia",
+    "position": "DF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 20,
+    "player": "Nicole Anyomi",
+    "position": "FW",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 21,
+    "player": "Carolina Arias",
+    "position": "DF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 4.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 22,
+    "player": "Daniela Arias",
+    "position": "DF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 23,
+    "player": "Mackenzie Arnold",
+    "position": "GK",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 24,
+    "player": "Ary Borges",
+    "position": "MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 3,
+      "shots": 7,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 25,
+    "player": "Kosovare Asllani",
+    "position": "MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 5.1,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 26,
+    "player": "Viviane Asseyi",
+    "position": "FW,MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 27,
+    "player": "Izzy Atkinson",
+    "position": "MF,DF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 28,
+    "player": "Rosella Ayane",
+    "position": "FW",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 29,
+    "player": "Halimatu Ayinde",
+    "position": "MF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 30,
+    "player": "Selma Bacha",
+    "position": "MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.8,
+      "goals": 0,
+      "shots": 9,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 31,
+    "player": "Ramona Bachmann",
+    "position": "MF,FW",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 32,
+    "player": "Najat Badri",
+    "position": "MF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 35,
+      "born": 1988
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 33,
+    "player": "Jill Baijings",
+    "position": "FW",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 34,
+    "player": "Yenith Bailey",
+    "position": "GK",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 35,
+    "player": "Stine Ballisager Pedersen",
+    "position": "DF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 36,
+    "player": "Carina Baltrip-Reyes",
+    "position": "DF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 37,
+    "player": "Barbra Banda",
+    "position": "FW",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 38,
+    "player": "Susan Banda",
+    "position": "MF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 39,
+    "player": "Estefanía Banini",
+    "position": "MF,FW",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 40,
+    "player": "Alicia Barker",
+    "position": "DF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 41,
+    "player": "Amber Barrett",
+    "position": "FW",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 42,
+    "player": "Elisa Bartoli",
+    "position": "DF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 43,
+    "player": "Ona Batlle",
+    "position": "DF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 6.8,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 44,
+    "player": "Angela Beard",
+    "position": "DF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 45,
+    "player": "Beatriz",
+    "position": "FW,MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 1,
+      "shots": 9,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 46,
+    "player": "Chiara Beccari",
+    "position": "FW",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 18,
+      "born": 2004
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 47,
+    "player": "Vicki Bècho",
+    "position": "MF,FW",
+    "squad": "fr France",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 1,
+      "shots": 6,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 48,
+    "player": "Lorena Bedoya",
+    "position": "MF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 4.9,
+      "goals": 0,
+      "shots": 7,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 49,
+    "player": "Lineth Beerensteyn",
+    "position": "FW",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.3,
+      "goals": 1,
+      "shots": 12,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 50,
+    "player": "Margaret Belemu",
+    "position": "DF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 51,
+    "player": "Mariana Benavides",
+    "position": "DF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 52,
+    "player": "Lorena Benítez",
+    "position": "MF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 53,
+    "player": "Hanna Bennison",
+    "position": "MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 54,
+    "player": "Nouhaila Benzina",
+    "position": "DF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 55,
+    "player": "Guro Bergsvand",
+    "position": "DF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 56,
+    "player": "Kholosa Biyana",
+    "position": "MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 57,
+    "player": "Thea Bjelde",
+    "position": "DF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 58,
+    "player": "Nathalie Björn",
+    "position": "DF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 6.3,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 59,
+    "player": "Stina Blackstenius",
+    "position": "FW",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 5.5,
+      "goals": 1,
+      "shots": 12,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 60,
+    "player": "Deneisha Blackwood",
+    "position": "DF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 61,
+    "player": "Julie Blakstad",
+    "position": "FW",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 62,
+    "player": "Rebecka Blomqvist",
+    "position": "FW",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 3,
+      "shots": 3,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 63,
+    "player": "Lisa Boattin",
+    "position": "DF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 64,
+    "player": "Sarina Bolden",
+    "position": "FW",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 2.6,
+      "goals": 1,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 65,
+    "player": "Barbara Bonansea",
+    "position": "FW",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 66,
+    "player": "Aitana Bonmatí",
+    "position": "MF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 6.5,
+      "goals": 3,
+      "shots": 19,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 67,
+    "player": "Florencia Bonsegundo",
+    "position": "FW,MF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 68,
+    "player": "Roselord Borgella",
+    "position": "FW,MF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 2.1,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 69,
+    "player": "Ana Borges",
+    "position": "DF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 70,
+    "player": "CJ Bott",
+    "position": "DF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 71,
+    "player": "Sofia Bouftini",
+    "position": "MF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 72,
+    "player": "Katie Bowen",
+    "position": "DF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 73,
+    "player": "Simone Boye Sørensen",
+    "position": "DF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 74,
+    "player": "Jule Brand",
+    "position": "FW",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 75,
+    "player": "Marit Bratberg Lund",
+    "position": "DF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 76,
+    "player": "Sophia Braun",
+    "position": "MF,DF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 77,
+    "player": "Millie Bright",
+    "position": "DF",
+    "squad": "en England",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 78,
+    "player": "Lucy Bronze",
+    "position": "DF",
+    "squad": "en England",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 7.1,
+      "goals": 0,
+      "shots": 8,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 79,
+    "player": "Courtney Brosnan",
+    "position": "GK",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 80,
+    "player": "Jody Brown",
+    "position": "MF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 81,
+    "player": "Esmee Brugts",
+    "position": "FW",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 4.8,
+      "goals": 2,
+      "shots": 8,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 82,
+    "player": "Bruninha",
+    "position": "DF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 83,
+    "player": "Signe Bruun",
+    "position": "FW",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 84,
+    "player": "Kadeisha Buchanan",
+    "position": "DF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 85,
+    "player": "Ryley Bugay",
+    "position": "MF,DF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 86,
+    "player": "Klara Bühl",
+    "position": "FW",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 2.2,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 87,
+    "player": "Luana Bühler",
+    "position": "DF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 88,
+    "player": "Claudia Bunge",
+    "position": "DF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 89,
+    "player": "Vilde Bøe Risa",
+    "position": "MF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 90,
+    "player": "Linda Caicedo",
+    "position": "FW",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 18,
+      "born": 2005
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 2,
+      "shots": 8,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 91,
+    "player": "Mariona Caldentey",
+    "position": "FW",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 92,
+    "player": "Diane Caldwell",
+    "position": "DF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 34,
+      "born": 1988
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 93,
+    "player": "Viola Calligaris",
+    "position": "DF,MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 94,
+    "player": "Tiffany Cameron",
+    "position": "DF,MF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 1.7,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 95,
+    "player": "Sofia Cantore",
+    "position": "FW",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 96,
+    "player": "Ana Capeta",
+    "position": "FW,MF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 97,
+    "player": "Jorelyn Carabalí",
+    "position": "DF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 98,
+    "player": "Olga Carmona",
+    "position": "DF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.8,
+      "goals": 2,
+      "shots": 11,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 99,
+    "player": "Ellie Carpenter",
+    "position": "DF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 7.1,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 100,
+    "player": "Jess Carter",
+    "position": "DF",
+    "squad": "en England",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 6.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 101,
+    "player": "Trudi Carter",
+    "position": "MF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 102,
+    "player": "Kyra Carusa",
+    "position": "FW",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 0,
+      "shots": 7,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 103,
+    "player": "Arianna Caruso",
+    "position": "MF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 2,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 104,
+    "player": "Estelle Cascarino",
+    "position": "DF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.1,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 105,
+    "player": "Kerstin Casparij",
+    "position": "FW,DF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 106,
+    "player": "Katherine Castillo",
+    "position": "DF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 107,
+    "player": "Steph Catley",
+    "position": "DF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 2,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 108,
+    "player": "Emily Cedeño",
+    "position": "FW,MF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 109,
+    "player": "Lineth Cedeño",
+    "position": "FW",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 110,
+    "player": "Valentina Cernoia",
+    "position": "MF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 111,
+    "player": "Noxolo Cesane",
+    "position": "MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 112,
+    "player": "Ivonne Chacón",
+    "position": "MF,FW",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 113,
+    "player": "Nesryne El Chad",
+    "position": "DF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 20,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 3.1,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 114,
+    "player": "Kang Chae-rim",
+    "position": "FW,MF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 115,
+    "player": "Olivia Chance",
+    "position": "FW,MF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 116,
+    "player": "Hellen Chanda",
+    "position": "MF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 117,
+    "player": "Allysha Chapman",
+    "position": "DF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 118,
+    "player": "Niamh Charles",
+    "position": "DF,MF",
+    "squad": "en England",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 119,
+    "player": "Gabriela Chávez",
+    "position": "DF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 120,
+    "player": "Ghizlane Chebbak",
+    "position": "MF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 121,
+    "player": "Gao Chen",
+    "position": "DF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 122,
+    "player": "Wu Chengshu",
+    "position": "FW,MF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 123,
+    "player": "Remina Chiba",
+    "position": "MF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 124,
+    "player": "Alex Chidiac",
+    "position": "MF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 125,
+    "player": "Priscila Chinchilla",
+    "position": "FW,MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 126,
+    "player": "Avell Chitundu",
+    "position": "MF,FW",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.7,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 127,
+    "player": "Lene Christensen",
+    "position": "GK",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 128,
+    "player": "Laia Codina",
+    "position": "DF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.6,
+      "goals": 1,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 129,
+    "player": "Cata Coll",
+    "position": "GK",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 130,
+    "player": "Aldana Cometti",
+    "position": "DF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 131,
+    "player": "Megan Connolly",
+    "position": "DF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 132,
+    "player": "Laura Coombs",
+    "position": "MF",
+    "squad": "en England",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 133,
+    "player": "Kyra Cooney-Cross",
+    "position": "MF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 134,
+    "player": "Vanina Correa",
+    "position": "GK",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 39,
+      "born": 1983
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 135,
+    "player": "Carole Costa",
+    "position": "DF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 33,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 136,
+    "player": "María Coto",
+    "position": "DF,MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 137,
+    "player": "Jessika Cowart",
+    "position": "DF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 138,
+    "player": "Marta Cox",
+    "position": "MF,FW",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 139,
+    "player": "Ana-Maria Crnogorčević",
+    "position": "FW,MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 140,
+    "player": "Julieta Cruz",
+    "position": "DF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 141,
+    "player": "Sara Däbritz",
+    "position": "MF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 142,
+    "player": "Kenza Dali",
+    "position": "MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 3.6,
+      "goals": 1,
+      "shots": 12,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 143,
+    "player": "Rachel Daly",
+    "position": "DF",
+    "squad": "en England",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 6.0,
+      "goals": 1,
+      "shots": 12,
+      "shots_on_target": 7
+    }
+  },
+  {
+    "id": 144,
+    "player": "Élisa De Almeida",
+    "position": "DF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.3,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 145,
+    "player": "Debinha",
+    "position": "FW",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 2.6,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 146,
+    "player": "Valeria del Campo",
+    "position": "DF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 147,
+    "player": "Athenea del Castillo",
+    "position": "FW",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 148,
+    "player": "Blessing Demehin",
+    "position": "DF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 149,
+    "player": "Savannah Demelo",
+    "position": "MF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 150,
+    "player": "Stefanie van der Gragt",
+    "position": "DF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 4.7,
+      "goals": 2,
+      "shots": 5,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 151,
+    "player": "Karabo Dhlamini",
+    "position": "DF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 152,
+    "player": "Lucia Di Guglielmo",
+    "position": "DF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 153,
+    "player": "Kadidiatou Diani",
+    "position": "FW",
+    "squad": "fr France",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 4,
+      "shots": 17,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 154,
+    "player": "Caitlin Dijkstra",
+    "position": "MF,DF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 155,
+    "player": "Daphne van Domselaar",
+    "position": "GK",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 5.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 156,
+    "player": "Merel van Dongen",
+    "position": "FW",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 157,
+    "player": "Daniëlle van de Donk",
+    "position": "MF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 3.2,
+      "goals": 1,
+      "shots": 6,
+      "shots_on_target": 5
+    }
+  },
+  {
+    "id": 158,
+    "player": "Sara Doorsoun",
+    "position": "DF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 159,
+    "player": "Giulia Dragoni",
+    "position": "MF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 16,
+      "born": 2006
+    },
+    "stats": {
+      "90s": 2.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 160,
+    "player": "Melchie Dumornay",
+    "position": "MF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 161,
+    "player": "Nguyễn Thị Tuyết Dung",
+    "position": "MF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 162,
+    "player": "Crystal Dunn",
+    "position": "DF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 4.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 163,
+    "player": "Solène Durand",
+    "position": "GK",
+    "squad": "fr France",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 164,
+    "player": "Francesca Durante",
+    "position": "GK",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 165,
+    "player": "Mary Earps",
+    "position": "GK",
+    "squad": "en England",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 166,
+    "player": "Onome Ebi",
+    "position": "DF,MF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 40,
+      "born": 1983
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 167,
+    "player": "Jennifer Echegini",
+    "position": "MF,FW",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 168,
+    "player": "Sara Eggesvik",
+    "position": "MF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 169,
+    "player": "Emily van Egmond",
+    "position": "FW,MF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 1,
+      "shots": 9,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 170,
+    "player": "Damaris Egurrola",
+    "position": "MF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 171,
+    "player": "Amalie Eikeland",
+    "position": "FW",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 172,
+    "player": "Roseline Éloissaint",
+    "position": "FW",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 173,
+    "player": "Telma Encarnação",
+    "position": "FW",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 5
+    }
+  },
+  {
+    "id": 174,
+    "player": "Jun Endō",
+    "position": "MF,DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.3,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 175,
+    "player": "Bethany England",
+    "position": "FW,MF",
+    "squad": "en England",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 176,
+    "player": "Khadija Er-Rmichi",
+    "position": "GK",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 177,
+    "player": "Magdalena Eriksson",
+    "position": "DF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 0,
+      "shots": 7,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 178,
+    "player": "Julie Ertz",
+    "position": "DF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 9,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 179,
+    "player": "Rebeca Espinosa",
+    "position": "DF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 180,
+    "player": "Victoria Esson",
+    "position": "GK",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 181,
+    "player": "Dani Étienne",
+    "position": "MF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 182,
+    "player": "Jeon Eun-ha",
+    "position": "FW",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 183,
+    "player": "Park Eun-sun",
+    "position": "FW,MF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 36,
+      "born": 1986
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 184,
+    "player": "Niamh Fahey",
+    "position": "DF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 35,
+      "born": 1987
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 185,
+    "player": "Daiana Falfán",
+    "position": "MF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 186,
+    "player": "Jennifer Falk",
+    "position": "GK",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 187,
+    "player": "Sinead Farrelly",
+    "position": "FW,MF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 188,
+    "player": "Laurina Fazer",
+    "position": "MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 189,
+    "player": "Naomie Feller",
+    "position": "FW",
+    "squad": "fr France",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 190,
+    "player": "Isabella Flanigan",
+    "position": "MF,FW",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 18,
+      "born": 2005
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 191,
+    "player": "Jessie Fleming",
+    "position": "MF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 192,
+    "player": "Caitlin Foord",
+    "position": "MF,FW",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 1,
+      "shots": 16,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 193,
+    "player": "Mary Fowler",
+    "position": "FW",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 20,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 6.3,
+      "goals": 1,
+      "shots": 13,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 194,
+    "player": "Emily Fox",
+    "position": "DF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 4.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 195,
+    "player": "Laura Freigang",
+    "position": "MF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 196,
+    "player": "Carleigh Frilles",
+    "position": "FW",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 197,
+    "player": "Merle Frohms",
+    "position": "GK",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 198,
+    "player": "Aoba Fujino",
+    "position": "FW,MF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 19,
+      "born": 2004
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 1,
+      "shots": 13,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 199,
+    "player": "Chun Ga-ram",
+    "position": "MF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 200,
+    "player": "Gabi Nunes",
+    "position": "FW",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 201,
+    "player": "Rocío Gálvez",
+    "position": "DF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 202,
+    "player": "Bongeka Gamede",
+    "position": "MF,DF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 203,
+    "player": "Mille Gejl",
+    "position": "FW,MF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 204,
+    "player": "Lee Geum-min",
+    "position": "MF,FW",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 205,
+    "player": "Luna Gevitz",
+    "position": "DF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 206,
+    "player": "Grace Geyoro",
+    "position": "MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 4.8,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 207,
+    "player": "Geyse",
+    "position": "FW,MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 208,
+    "player": "Valentina Giacinti",
+    "position": "FW",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 8,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 209,
+    "player": "Vanessa Gilles",
+    "position": "DF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 210,
+    "player": "Natalia Giraldo",
+    "position": "GK",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 20,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 211,
+    "player": "Cristiana Girelli",
+    "position": "MF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 33,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 1,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 212,
+    "player": "Naomi Girma",
+    "position": "DF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 213,
+    "player": "Manuela Giugliano",
+    "position": "MF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 214,
+    "player": "Benedetta Glionna",
+    "position": "DF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 215,
+    "player": "Diana Gomes",
+    "position": "DF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 216,
+    "player": "Camila Gómez Ares",
+    "position": "MF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 217,
+    "player": "Esther González",
+    "position": "FW",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 2.6,
+      "goals": 1,
+      "shots": 17,
+      "shots_on_target": 5
+    }
+  },
+  {
+    "id": 218,
+    "player": "Schiandra González",
+    "position": "MF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.2,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 219,
+    "player": "Katrina Gorry",
+    "position": "MF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 6.9,
+      "goals": 0,
+      "shots": 11,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 220,
+    "player": "Caroline Graham Hansen",
+    "position": "FW",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.3,
+      "goals": 1,
+      "shots": 10,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 221,
+    "player": "Paulina Gramaglia",
+    "position": "FW",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 20,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 222,
+    "player": "Cristín Granados",
+    "position": "MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 223,
+    "player": "Charlotte Grant",
+    "position": "MF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 224,
+    "player": "Alex Greenwood",
+    "position": "DF",
+    "squad": "en England",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 225,
+    "player": "Giada Greggi",
+    "position": "MF,FW",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 226,
+    "player": "Jackie Groenen",
+    "position": "MF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 227,
+    "player": "Julia Grosso",
+    "position": "MF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 228,
+    "player": "Irene Guerrero",
+    "position": "MF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 229,
+    "player": "Gabriela Guillén",
+    "position": "MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 230,
+    "player": "Katrina Guillou",
+    "position": "FW,MF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 231,
+    "player": "Ana María Guzmán",
+    "position": "DF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 18,
+      "born": 2005
+    },
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 232,
+    "player": "Emilie Haavi",
+    "position": "FW",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 233,
+    "player": "Chantal Hagel",
+    "position": "DF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 234,
+    "player": "Phạm Hải Yến",
+    "position": "FW",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 235,
+    "player": "Wu Haiyan",
+    "position": "DF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 236,
+    "player": "Hanane Aït El Haj",
+    "position": "DF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 237,
+    "player": "Maika Hamano",
+    "position": "DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 19,
+      "born": 2004
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 238,
+    "player": "Jacqui Hand",
+    "position": "FW",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 239,
+    "player": "Tuva Hansen",
+    "position": "DF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.6,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 240,
+    "player": "Pernille Harder",
+    "position": "MF,FW",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 1,
+      "shots": 10,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 241,
+    "player": "Sofia Harrison",
+    "position": "DF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.1,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 242,
+    "player": "Mathilde Harviken",
+    "position": "DF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 3.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 243,
+    "player": "Josefine Hasbo",
+    "position": "MF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 2.1,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 244,
+    "player": "Yui Hasegawa",
+    "position": "MF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 4.4,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 245,
+    "player": "Betsy Hassett",
+    "position": "MF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 246,
+    "player": "Honoka Hayashi",
+    "position": "MF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 1.9,
+      "goals": 1,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 247,
+    "player": "Ada Hegerberg",
+    "position": "FW",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 248,
+    "player": "Marina Hegering",
+    "position": "DF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 33,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 249,
+    "player": "Lauren Hemp",
+    "position": "FW",
+    "squad": "en England",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 5.8,
+      "goals": 3,
+      "shots": 13,
+      "shots_on_target": 7
+    }
+  },
+  {
+    "id": 250,
+    "player": "Kathrin Hendrich",
+    "position": "DF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 251,
+    "player": "Jennifer Hermoso",
+    "position": "MF,FW",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 33,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 7.2,
+      "goals": 3,
+      "shots": 19,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 252,
+    "player": "Erika Hernández",
+    "position": "FW",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 253,
+    "player": "Oihane Hernández",
+    "position": "DF,FW",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 254,
+    "player": "Melissa Herrera",
+    "position": "FW,MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 255,
+    "player": "Karen Holmgaard",
+    "position": "MF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 256,
+    "player": "Sibulele Holweni",
+    "position": "DF,MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 257,
+    "player": "Lindsey Horan",
+    "position": "MF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 2,
+      "shots": 12,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 258,
+    "player": "Xu Huan",
+    "position": "GK",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 259,
+    "player": "Sofia Huerta",
+    "position": "DF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 260,
+    "player": "Jordyn Huitema",
+    "position": "FW",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 12,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 261,
+    "player": "Fabienne Humm",
+    "position": "FW",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 36,
+      "born": 1986
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 262,
+    "player": "Clare Hunt",
+    "position": "DF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 263,
+    "player": "Lina Hurtig",
+    "position": "FW,MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 264,
+    "player": "Svenja Huth",
+    "position": "DF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 265,
+    "player": "Son Hwa-yeon",
+    "position": "FW",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 266,
+    "player": "Hong Hye-ji",
+    "position": "DF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 267,
+    "player": "Kim Hye-ri",
+    "position": "DF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 268,
+    "player": "Choo Hyo-joo",
+    "position": "DF,FW",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 269,
+    "player": "Sara Hørte",
+    "position": "MF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 270,
+    "player": "Amanda Ilestedt",
+    "position": "DF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 7.0,
+      "goals": 4,
+      "shots": 9,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 271,
+    "player": "Dalila Ippólito",
+    "position": "MF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 272,
+    "player": "Rion Ishikawa",
+    "position": "DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 273,
+    "player": "Andreia Jacinto",
+    "position": "MF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 274,
+    "player": "Hilary Jaén",
+    "position": "DF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 275,
+    "player": "Sofia Jakobsson",
+    "position": "FW,MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 33,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 276,
+    "player": "Grace Jale",
+    "position": "FW,MF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 277,
+    "player": "Lauren James",
+    "position": "MF,FW",
+    "squad": "en England",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 3,
+      "shots": 9,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 278,
+    "player": "Refiloe Jane",
+    "position": "MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 279,
+    "player": "Madelen Janogy",
+    "position": "MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 280,
+    "player": "Renate Jansen",
+    "position": "FW",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 281,
+    "player": "Dominique Janssen",
+    "position": "DF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 5.3,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 282,
+    "player": "Sherly Jeudy",
+    "position": "MF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 283,
+    "player": "Lou Jiahui",
+    "position": "FW",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 2.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 284,
+    "player": "Tang Jiali",
+    "position": "FW",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 285,
+    "player": "Dou Jiaxing",
+    "position": "DF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 286,
+    "player": "Darlina Joseph",
+    "position": "FW",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 287,
+    "player": "Shwendesky Joseph",
+    "position": "MF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 288,
+    "player": "Tabita Joseph",
+    "position": "DF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 289,
+    "player": "Ibtissam Jraïdi",
+    "position": "FW",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 290,
+    "player": "Kim Jung-mi",
+    "position": "GK",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 38,
+      "born": 1984
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 291,
+    "player": "Anna Jøsendal",
+    "position": "FW",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 292,
+    "player": "Uchenna Kanu",
+    "position": "FW",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 1,
+      "shots": 6,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 293,
+    "player": "Wieke Kaptein",
+    "position": "MF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 17,
+      "born": 2005
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 294,
+    "player": "Sakina Karchaoui",
+    "position": "DF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 295,
+    "player": "Sarah Kassi",
+    "position": "DF,MF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 296,
+    "player": "Kathellen",
+    "position": "DF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 297,
+    "player": "Evarine Katongo",
+    "position": "MF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 2.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 298,
+    "player": "Chloe Kelly",
+    "position": "FW",
+    "squad": "en England",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.2,
+      "goals": 1,
+      "shots": 7,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 299,
+    "player": "Alanna Kennedy",
+    "position": "DF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 5.3,
+      "goals": 1,
+      "shots": 7,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 300,
+    "player": "Kerolin",
+    "position": "MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 7,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 301,
+    "player": "Sam Kerr",
+    "position": "FW",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 1,
+      "shots": 10,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 302,
+    "player": "Melinda Kgadiete",
+    "position": "FW,MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 303,
+    "player": "Thembi Kgatlana",
+    "position": "FW",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.9,
+      "goals": 2,
+      "shots": 19,
+      "shots_on_target": 9
+    }
+  },
+  {
+    "id": 304,
+    "player": "Nomi Kgoale",
+    "position": "MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 305,
+    "player": "Kathrine Kühl",
+    "position": "MF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 3.4,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 306,
+    "player": "Saki Kumagai",
+    "position": "DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 307,
+    "player": "Racheal Kundananji",
+    "position": "MF,FW",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 5
+    }
+  },
+  {
+    "id": 308,
+    "player": "Cloé Lacasse",
+    "position": "FW",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 309,
+    "player": "Anissa Lahmari",
+    "position": "FW",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.2,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 310,
+    "player": "Maëlle Lakrar",
+    "position": "DF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 1,
+      "shots": 9,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 311,
+    "player": "Abbie Larkin",
+    "position": "FW,MF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 18,
+      "born": 2005
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 312,
+    "player": "Mariana Larroquette",
+    "position": "FW",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 2.6,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 313,
+    "player": "Lena Lattwein",
+    "position": "MF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 314,
+    "player": "Lauren",
+    "position": "DF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 315,
+    "player": "Rose Lavelle",
+    "position": "MF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 316,
+    "player": "Ashley Lawrence",
+    "position": "DF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 317,
+    "player": "Léa Le Garrec",
+    "position": "MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 318,
+    "player": "Eugénie Le Sommer",
+    "position": "FW",
+    "squad": "fr France",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 3.9,
+      "goals": 3,
+      "shots": 13,
+      "shots_on_target": 9
+    }
+  },
+  {
+    "id": 319,
+    "player": "Alisha Lehmann",
+    "position": "MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 320,
+    "player": "Stina Lennartsson",
+    "position": "DF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 321,
+    "player": "Martina Lenzini",
+    "position": "DF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 322,
+    "player": "Adriana Leon",
+    "position": "FW",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 323,
+    "player": "Letícia Izidoro",
+    "position": "GK",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 324,
+    "player": "Melanie Leupolz",
+    "position": "MF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 325,
+    "player": "Jennyfer Limage",
+    "position": "DF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 326,
+    "player": "Yang Lina",
+    "position": "MF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 327,
+    "player": "Elena Linari",
+    "position": "DF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 328,
+    "player": "Yao Lingwei",
+    "position": "MF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 329,
+    "player": "Trần Thị Hải Linh",
+    "position": "MF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 330,
+    "player": "Wang Linlin",
+    "position": "FW",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 331,
+    "player": "Zhang Linyan",
+    "position": "MF,FW",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 332,
+    "player": "Ruesha Littlejohn",
+    "position": "MF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 333,
+    "player": "Sydney Lohmann",
+    "position": "FW",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 334,
+    "player": "Hali Long",
+    "position": "DF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 335,
+    "player": "Annalie Longo",
+    "position": "MF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 336,
+    "player": "Érica Lonigro",
+    "position": "FW",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 337,
+    "player": "Batcheba Louis",
+    "position": "FW",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 338,
+    "player": "Kethna Louis",
+    "position": "DF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 339,
+    "player": "Luana",
+    "position": "MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 340,
+    "player": "Ireen Lungu",
+    "position": "MF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 341,
+    "player": "Frida Maanum",
+    "position": "MF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 0,
+      "shots": 9,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 342,
+    "player": "Rikke Madsen",
+    "position": "FW,DF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 343,
+    "player": "Hildah Magaia",
+    "position": "FW,MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.6,
+      "goals": 2,
+      "shots": 6,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 344,
+    "player": "Lina Magull",
+    "position": "MF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 345,
+    "player": "Amel Majri",
+    "position": "MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 346,
+    "player": "Tiisetso Makhubela",
+    "position": "DF,MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 347,
+    "player": "Xiomara Mapepa",
+    "position": "MF,FW",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": null,
+      "born": null
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 348,
+    "player": "Joana Marchão",
+    "position": "DF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 349,
+    "player": "Noelle Maritz",
+    "position": "DF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 350,
+    "player": "Marta",
+    "position": "FW,MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 37,
+      "born": 1986
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 351,
+    "player": "Lieke Martens",
+    "position": "FW",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 5.3,
+      "goals": 1,
+      "shots": 21,
+      "shots_on_target": 8
+    }
+  },
+  {
+    "id": 352,
+    "player": "Lara Marti",
+    "position": "DF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 353,
+    "player": "Clara Matéo",
+    "position": "FW,MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.7,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 354,
+    "player": "Ruthny Mathurin",
+    "position": "DF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 355,
+    "player": "Noko Matlou",
+    "position": "DF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 37,
+      "born": 1985
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 356,
+    "player": "Cheyna Matthews",
+    "position": "MF,FW",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 357,
+    "player": "Sandrine Mauron",
+    "position": "MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 358,
+    "player": "Miriam Mayorga",
+    "position": "DF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 359,
+    "player": "Bambanani Mbane",
+    "position": "DF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 33,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 3.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 360,
+    "player": "Katie McCabe",
+    "position": "MF,DF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 6,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 361,
+    "player": "Chandler McDaniel",
+    "position": "FW",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 362,
+    "player": "Olivia McDaniel",
+    "position": "GK",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 363,
+    "player": "Kayla McKenna",
+    "position": "FW",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 364,
+    "player": "Peyton McNamara",
+    "position": "MF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 365,
+    "player": "Carolina Mendes",
+    "position": "FW",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 35,
+      "born": 1987
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 366,
+    "player": "Li Mengwen",
+    "position": "DF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 367,
+    "player": "Shen Mengyu",
+    "position": "MF,FW",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 368,
+    "player": "Kristie Mewis",
+    "position": "MF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 369,
+    "player": "Moon Mi-ra",
+    "position": "DF,FW",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 370,
+    "player": "Aurora Mikalsen",
+    "position": "GK",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 371,
+    "player": "Natalia Mills",
+    "position": "MF,FW",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 372,
+    "player": "Moeka Minami",
+    "position": "DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 373,
+    "player": "Shiori Miyake",
+    "position": "DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 374,
+    "player": "Hinata Miyazawa",
+    "position": "FW,MF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 5,
+      "shots": 13,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 375,
+    "player": "Maren Mjelde",
+    "position": "DF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 376,
+    "player": "Gift Monday",
+    "position": "FW",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 377,
+    "player": "Nérilia Mondésir",
+    "position": "FW",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 7,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 378,
+    "player": "Mônica",
+    "position": "DF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 45,
+      "born": 1978
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 379,
+    "player": "Carmen Montenegro",
+    "position": "MF,DF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 380,
+    "player": "Daniela Montoya",
+    "position": "MF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 381,
+    "player": "Robyn Moodaly",
+    "position": "MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 382,
+    "player": "Patrícia Morais",
+    "position": "GK",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 383,
+    "player": "Alex Morgan",
+    "position": "FW",
+    "squad": "us USA",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 3.8,
+      "goals": 0,
+      "shots": 16,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 384,
+    "player": "Miyabi Moriya",
+    "position": "MF,DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 385,
+    "player": "Maudeline Moryl",
+    "position": "MF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 20,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 386,
+    "player": "Linda Motlhalo",
+    "position": "MF,FW",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.6,
+      "goals": 1,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 387,
+    "player": "Yasmin Mrabet",
+    "position": "DF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 388,
+    "player": "Hellen Mubanga",
+    "position": "MF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 389,
+    "player": "Agness Musase",
+    "position": "DF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 390,
+    "player": "Catherine Musonda",
+    "position": "GK",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 391,
+    "player": "Zećira Mušović",
+    "position": "GK",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 6.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 392,
+    "player": "Lushomo Mweemba",
+    "position": "DF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 1,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 393,
+    "player": "Lê Thị Diễm My",
+    "position": "DF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 394,
+    "player": "Alyssa Naeher",
+    "position": "GK",
+    "squad": "us USA",
+    "vitals": {
+      "age": 35,
+      "born": 1988
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 395,
+    "player": "Fūka Nagano",
+    "position": "MF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 396,
+    "player": "Élodie Nakkach",
+    "position": "MF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 397,
+    "player": "Hikaru Naomoto",
+    "position": "MF,FW",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 1,
+      "shots": 7,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 398,
+    "player": "Wendy Natis",
+    "position": "DF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 2.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 399,
+    "player": "Eva Navarro",
+    "position": "FW",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 400,
+    "player": "Kika Nazareth",
+    "position": "MF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 1.7,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 401,
+    "player": "Courtney Nevin",
+    "position": "DF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 402,
+    "player": "Nguyễn Thị Thanh Nhã",
+    "position": "MF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 403,
+    "player": "Huỳnh Như",
+    "position": "FW",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 404,
+    "player": "Chiamaka Nnadozie",
+    "position": "GK",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 405,
+    "player": "Andreia Norton",
+    "position": "MF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 406,
+    "player": "Aniek Nouwen",
+    "position": "DF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 407,
+    "player": "Romina Núñez",
+    "position": "MF,FW",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 408,
+    "player": "Sjoeke Nüsken",
+    "position": "DF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 409,
+    "player": "Áine O'Gorman",
+    "position": "MF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 410,
+    "player": "Kelley O'Hara",
+    "position": "DF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 34,
+      "born": 1988
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 411,
+    "player": "Denise O'Sullivan",
+    "position": "MF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 412,
+    "player": "Lena Oberdorf",
+    "position": "MF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 413,
+    "player": "Glory Ogbonna",
+    "position": "DF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 414,
+    "player": "Osinachi Ohale",
+    "position": "DF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 1,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 415,
+    "player": "Esther Okoronkwo",
+    "position": "FW",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 416,
+    "player": "Ifeoma Onumonu",
+    "position": "FW",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 417,
+    "player": "Desire Oparanozie",
+    "position": "FW",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 418,
+    "player": "Francisca Ordega",
+    "position": "FW,MF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 419,
+    "player": "Benedetta Orsi",
+    "position": "DF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 420,
+    "player": "Ochumba Oseke",
+    "position": "MF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 421,
+    "player": "Asisat Oshoala",
+    "position": "FW",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 1,
+      "shots": 10,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 422,
+    "player": "Diana Ospina",
+    "position": "MF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 423,
+    "player": "Sakina Ouzraoui",
+    "position": "MF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 424,
+    "player": "Salma Paralluelo",
+    "position": "FW",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 5.1,
+      "goals": 2,
+      "shots": 19,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 425,
+    "player": "Irene Paredes",
+    "position": "DF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 7.3,
+      "goals": 0,
+      "shots": 9,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 426,
+    "player": "María Paula Elizondo",
+    "position": "DF,MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 427,
+    "player": "Heather Payne",
+    "position": "MF,DF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 428,
+    "player": "Toni Payne",
+    "position": "MF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 4.2,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 429,
+    "player": "Victoria Pelova",
+    "position": "FW,MF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 4.8,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 430,
+    "player": "Ria Percival",
+    "position": "MF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 431,
+    "player": "Inês Pereira",
+    "position": "GK",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 432,
+    "player": "Catalina Pérez",
+    "position": "GK",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 4.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 433,
+    "player": "María Pérez",
+    "position": "MF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 434,
+    "player": "Ève Périsset",
+    "position": "DF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 435,
+    "player": "Betina Petit-Frère",
+    "position": "DF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 436,
+    "player": "Pauline Peyraud-Magnin",
+    "position": "GK",
+    "squad": "fr France",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 5.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 437,
+    "player": "Casey Phair",
+    "position": "FW,DF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 15,
+      "born": 2007
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 438,
+    "player": "Vast Phiri",
+    "position": "DF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 439,
+    "player": "Dayana Pierre-Louis",
+    "position": "MF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 2.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 440,
+    "player": "Alexandra Pinell",
+    "position": "MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 441,
+    "player": "Fátima Pinto",
+    "position": "MF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 442,
+    "player": "Tatiana Pinto",
+    "position": "MF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 443,
+    "player": "Yomira Pinzón",
+    "position": "DF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 444,
+    "player": "Seraina Piubel",
+    "position": "MF,FW",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 445,
+    "player": "Ashleigh Plumptre",
+    "position": "DF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 4.2,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 446,
+    "player": "Clare Polkinghorne",
+    "position": "DF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 447,
+    "player": "Alexandra Popp",
+    "position": "FW,MF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 4,
+      "shots": 14,
+      "shots_on_target": 7
+    }
+  },
+  {
+    "id": 448,
+    "player": "Atlanta Primus",
+    "position": "MF,FW",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.2,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 449,
+    "player": "Nichelle Prince",
+    "position": "FW",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 450,
+    "player": "Alexia Putellas",
+    "position": "MF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 451,
+    "player": "Chen Qiaozhu",
+    "position": "DF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 452,
+    "player": "Quinley Quezada",
+    "position": "MF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 453,
+    "player": "Quinn",
+    "position": "MF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 454,
+    "player": "Louise Quinn",
+    "position": "DF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 455,
+    "player": "Lucy Quinn",
+    "position": "FW",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 456,
+    "player": "Aldrith Quintero",
+    "position": "MF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 2.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 457,
+    "player": "Rafaelle",
+    "position": "DF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 458,
+    "player": "Lebohang Ramalepe",
+    "position": "DF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 459,
+    "player": "Mayra Ramírez",
+    "position": "FW",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 0,
+      "shots": 12,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 460,
+    "player": "Mónica Ramos",
+    "position": "DF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 461,
+    "player": "Dominique Randle",
+    "position": "DF,MF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 462,
+    "player": "Megan Rapinoe",
+    "position": "FW",
+    "squad": "us USA",
+    "vitals": {
+      "age": 37,
+      "born": 1985
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 463,
+    "player": "Hayley Raso",
+    "position": "MF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 6.2,
+      "goals": 3,
+      "shots": 10,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 464,
+    "player": "Felicitas Rauch",
+    "position": "DF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 465,
+    "player": "Sílvia Rebelo",
+    "position": "DF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 466,
+    "player": "Alba Redondo",
+    "position": "FW",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 4.4,
+      "goals": 3,
+      "shots": 17,
+      "shots_on_target": 8
+    }
+  },
+  {
+    "id": 467,
+    "player": "Zineb Redouani",
+    "position": "DF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 468,
+    "player": "Guro Reiten",
+    "position": "MF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 2,
+      "shots": 8,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 469,
+    "player": "Wendie Renard",
+    "position": "DF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 1,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 470,
+    "player": "Gabi Rennie",
+    "position": "FW",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 471,
+    "player": "Marcela Restrepo",
+    "position": "MF,FW",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 472,
+    "player": "Géraldine Reuteler",
+    "position": "MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.1,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 473,
+    "player": "Marion Rey",
+    "position": "MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 474,
+    "player": "Nadine Riesen",
+    "position": "DF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 2.9,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 475,
+    "player": "Ali Riley",
+    "position": "DF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 35,
+      "born": 1987
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 476,
+    "player": "Indiah-Paige Riley",
+    "position": "MF,FW",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 477,
+    "player": "Karla Riley",
+    "position": "FW",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 478,
+    "player": "Jayde Riviere",
+    "position": "DF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 479,
+    "player": "Trinity Rodman",
+    "position": "FW",
+    "squad": "us USA",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 2.6,
+      "goals": 0,
+      "shots": 7,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 480,
+    "player": "Misa Rodríguez",
+    "position": "GK",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 481,
+    "player": "Raquel Rodríguez",
+    "position": "MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 482,
+    "player": "Yamila Rodríguez",
+    "position": "FW,MF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 483,
+    "player": "Fridolina Rolfö",
+    "position": "FW,MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 5.5,
+      "goals": 3,
+      "shots": 10,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 484,
+    "player": "Sophie Román Haug",
+    "position": "FW",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 3,
+      "shots": 13,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 485,
+    "player": "Jill Roord",
+    "position": "MF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 4.6,
+      "goals": 4,
+      "shots": 18,
+      "shots_on_target": 7
+    }
+  },
+  {
+    "id": 486,
+    "player": "Deanne Rose",
+    "position": "FW",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 487,
+    "player": "Elin Rubensson",
+    "position": "MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 6.4,
+      "goals": 1,
+      "shots": 6,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 488,
+    "player": "Zhang Rui",
+    "position": "MF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 489,
+    "player": "Alessia Russo",
+    "position": "FW",
+    "squad": "en England",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 5.8,
+      "goals": 3,
+      "shots": 22,
+      "shots_on_target": 12
+    }
+  },
+  {
+    "id": 490,
+    "player": "Ana Rute",
+    "position": "MF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 491,
+    "player": "Johanna Rytting Kaneryd",
+    "position": "FW,DF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 5.6,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 492,
+    "player": "Adriana Sachs",
+    "position": "DF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 493,
+    "player": "Eunice Sakala",
+    "position": "GK",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 21,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 494,
+    "player": "María Paula Salas",
+    "position": "FW",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 495,
+    "player": "Deysiré Salazar",
+    "position": "MF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 19,
+      "born": 2004
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 496,
+    "player": "Gabriela Salgado",
+    "position": "MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 497,
+    "player": "Cecilia Salvai",
+    "position": "DF",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 498,
+    "player": "Duda Sampaio",
+    "position": "MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 499,
+    "player": "Vyan Sampson",
+    "position": "MF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 500,
+    "player": "Anna Sandberg",
+    "position": "DF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 20,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 501,
+    "player": "Leicy Santos",
+    "position": "MF,FW",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 4.2,
+      "goals": 1,
+      "shots": 9,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 502,
+    "player": "Paige Satchell",
+    "position": "FW",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 503,
+    "player": "Jaclyn Sawicki",
+    "position": "MF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 504,
+    "player": "Sophie Schmidt",
+    "position": "MF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 34,
+      "born": 1988
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 505,
+    "player": "Olivia Schough",
+    "position": "FW,MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 506,
+    "player": "Lea Schüller",
+    "position": "FW,MF",
+    "squad": "de Germany",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.6,
+      "goals": 1,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 507,
+    "player": "Sheika Scott",
+    "position": "FW",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 16,
+      "born": 2006
+    },
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 508,
+    "player": "Caroline Seger",
+    "position": "MF",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 38,
+      "born": 1985
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 509,
+    "player": "Ana Seiça",
+    "position": "DF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 510,
+    "player": "Kiko Seike",
+    "position": "DF,MF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 511,
+    "player": "Jang Sel-gi",
+    "position": "DF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 512,
+    "player": "Linda Sembrant",
+    "position": "DF,FW",
+    "squad": "se Sweden",
+    "vitals": {
+      "age": 36,
+      "born": 1987
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 513,
+    "player": "Shim Seo-yeon",
+    "position": "DF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 34,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 514,
+    "player": "Lim Seon-joo",
+    "position": "DF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 515,
+    "player": "Jermaine Seoposenwe",
+    "position": "FW,MF",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 3.3,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 516,
+    "player": "Meryll Serrano",
+    "position": "MF",
+    "squad": "ph Philippines",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 517,
+    "player": "Annamaria Serturini",
+    "position": "FW",
+    "squad": "it Italy",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 518,
+    "player": "Rikke Sevecke",
+    "position": "DF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 3.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 519,
+    "player": "Wang Shanshan",
+    "position": "DF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 33,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 520,
+    "player": "Khadija Shaw",
+    "position": "FW",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 7,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 521,
+    "player": "Kailen Sheridan",
+    "position": "GK",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 522,
+    "player": "Marissa Sheva",
+    "position": "FW,DF",
+    "squad": "ie Rep. of Ireland",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 523,
+    "player": "Risa Shimizu",
+    "position": "MF,DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 4.6,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 524,
+    "player": "Wendy Shongwe",
+    "position": "FW",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 20,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 525,
+    "player": "Wang Shuang",
+    "position": "FW,MF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 2,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 526,
+    "player": "Diana Silva",
+    "position": "FW",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 527,
+    "player": "Dolores Silva",
+    "position": "MF",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 1.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 528,
+    "player": "Jéssica Silva",
+    "position": "FW",
+    "squad": "pt Portugal",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 529,
+    "player": "Kameron Simmonds",
+    "position": "FW,MF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 19,
+      "born": 2003
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 530,
+    "player": "Christine Sinclair",
+    "position": "FW,MF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 40,
+      "born": 1983
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 531,
+    "player": "Olivia Smith",
+    "position": "MF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 18,
+      "born": 2004
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 532,
+    "player": "Sophia Smith",
+    "position": "FW",
+    "squad": "us USA",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 2,
+      "shots": 13,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 533,
+    "player": "Emma Snerle",
+    "position": "FW",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 534,
+    "player": "Katja Snoeijs",
+    "position": "FW",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 2.2,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 535,
+    "player": "Cho So-hyun",
+    "position": "MF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 34,
+      "born": 1988
+    },
+    "stats": {
+      "90s": 2.7,
+      "goals": 1,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 536,
+    "player": "Ji So-yun",
+    "position": "MF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 537,
+    "player": "Havana Solaun",
+    "position": "FW",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 538,
+    "player": "Daniela Solera",
+    "position": "GK",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 539,
+    "player": "Emily Sonnett",
+    "position": "MF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 540,
+    "player": "Coumba Sow",
+    "position": "MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.5,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 541,
+    "player": "Drew Spence",
+    "position": "MF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 7,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 542,
+    "player": "Rebecca Spencer",
+    "position": "GK",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 32,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 543,
+    "player": "Sherida Spitse",
+    "position": "DF",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 33,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 4.7,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 544,
+    "player": "Eliana Stábile",
+    "position": "DF",
+    "squad": "ar Argentina",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 545,
+    "player": "Georgia Stanway",
+    "position": "MF",
+    "squad": "en England",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 6.8,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 546,
+    "player": "Malia Steinmetz",
+    "position": "MF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 547,
+    "player": "Julia Stierli",
+    "position": "DF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 548,
+    "player": "Rebekah Stott",
+    "position": "DF",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 549,
+    "player": "Ngân Thị Vạn Sự",
+    "position": "MF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 22,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 550,
+    "player": "Hina Sugita",
+    "position": "DF,MF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 551,
+    "player": "Andi Sullivan",
+    "position": "MF",
+    "squad": "us USA",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 552,
+    "player": "Chelsea Surpris",
+    "position": "DF",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 553,
+    "player": "Allyson Swaby",
+    "position": "DF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 1,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 554,
+    "player": "Chantelle Swaby",
+    "position": "DF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 24,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 555,
+    "player": "Kaylin Swart",
+    "position": "GK",
+    "squad": "za South Africa",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 556,
+    "player": "Ingrid Syrstad Engen",
+    "position": "MF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 557,
+    "player": "Karina Sævik",
+    "position": "FW,MF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 558,
+    "player": "Anja Sønstevold",
+    "position": "DF",
+    "squad": "no Norway",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 559,
+    "player": "Nicoline Sørensen",
+    "position": "FW,MF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 560,
+    "player": "Fatima Tagnaout",
+    "position": "MF",
+    "squad": "ma Morocco",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 561,
+    "player": "Hana Takahashi",
+    "position": "DF",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 562,
+    "player": "Tamires",
+    "position": "DF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 35,
+      "born": 1987
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 563,
+    "player": "Mina Tanaka",
+    "position": "FW",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 2,
+      "shots": 13,
+      "shots_on_target": 4
+    }
+  },
+  {
+    "id": 564,
+    "player": "Riley Tanner",
+    "position": "FW,MF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 565,
+    "player": "Martha Tembo",
+    "position": "DF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 566,
+    "player": "Meriame Terchoun",
+    "position": "FW,MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 567,
+    "player": "Gaëlle Thalmann",
+    "position": "GK",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 37,
+      "born": 1986
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 568,
+    "player": "Trần Thị Kim Thanh",
+    "position": "GK",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 569,
+    "player": "Trần Thị Thu Thảo",
+    "position": "DF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 570,
+    "player": "Kerly Théus",
+    "position": "GK",
+    "squad": "ht Haiti",
+    "vitals": {
+      "age": 24,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 571,
+    "player": "Khổng Thị Hằng",
+    "position": "GK",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 29,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 572,
+    "player": "Chương Thị Kiều",
+    "position": "DF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 573,
+    "player": "Hoàng Thị Loan",
+    "position": "DF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 574,
+    "player": "Thái Thị Thảo",
+    "position": "MF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 575,
+    "player": "Trần Thị Thu",
+    "position": "DF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 576,
+    "player": "Dương Thị Vân",
+    "position": "MF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 1.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 577,
+    "player": "Alyssa Thompson",
+    "position": "FW",
+    "squad": "us USA",
+    "vitals": {
+      "age": 18,
+      "born": 2004
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 578,
+    "player": "Janni Thomsen",
+    "position": "DF,FW",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 3.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 579,
+    "player": "Lương Thị Thu Thương",
+    "position": "DF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 1.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 580,
+    "player": "Nguyễn Thị Bích Thùy",
+    "position": "MF",
+    "squad": "vn Vietnam",
+    "vitals": {
+      "age": 29,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 581,
+    "player": "Frederikke Thøgersen",
+    "position": "FW",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 582,
+    "player": "Sandie Toletti",
+    "position": "MF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 3.4,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 583,
+    "player": "Ella Toone",
+    "position": "MF",
+    "squad": "en England",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 4.9,
+      "goals": 1,
+      "shots": 4,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 584,
+    "player": "Aïssatou Tounkara",
+    "position": "DF",
+    "squad": "fr France",
+    "vitals": {
+      "age": 28,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 0.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 585,
+    "player": "Sanne Troelsgaard Nielsen",
+    "position": "MF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 34,
+      "born": 1988
+    },
+    "stats": {
+      "90s": 0.3,
+      "goals": 1,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 586,
+    "player": "Christy Ucheibe",
+    "position": "MF",
+    "squad": "ng Nigeria",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.3,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 587,
+    "player": "Riko Ueki",
+    "position": "FW",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 2,
+      "shots": 10,
+      "shots_on_target": 5
+    }
+  },
+  {
+    "id": 588,
+    "player": "Catalina Usme",
+    "position": "FW,MF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 33,
+      "born": 1989
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 2,
+      "shots": 7,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 589,
+    "player": "Emilie Valenciano",
+    "position": "MF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 590,
+    "player": "Kiki Van Zanten",
+    "position": "MF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 21,
+      "born": 2001
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 591,
+    "player": "Manuela Vanegas",
+    "position": "DF",
+    "squad": "co Colombia",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 592,
+    "player": "Amalie Vangsgaard",
+    "position": "FW",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 26,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 2.2,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 593,
+    "player": "Rosario Vargas",
+    "position": "DF",
+    "squad": "pa Panama",
+    "vitals": {
+      "age": 20,
+      "born": 2002
+    },
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 594,
+    "player": "Katrine Veje",
+    "position": "DF",
+    "squad": "dk Denmark",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 595,
+    "player": "Evelyne Viens",
+    "position": "FW",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 596,
+    "player": "Fabiola Villalobos",
+    "position": "DF",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 597,
+    "player": "Gloriana Villalobos",
+    "position": "MF,FW",
+    "squad": "cr Costa Rica",
+    "vitals": {
+      "age": 23,
+      "born": 1999
+    },
+    "stats": {
+      "90s": 2.1,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 598,
+    "player": "Cortnee Vine",
+    "position": "MF,DF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 3
+    }
+  },
+  {
+    "id": 599,
+    "player": "Ana Vitória",
+    "position": "MF",
+    "squad": "br Brazil",
+    "vitals": {
+      "age": 23,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 600,
+    "player": "Keira Walsh",
+    "position": "MF",
+    "squad": "en England",
+    "vitals": {
+      "age": 26,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 5.7,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 601,
+    "player": "Lia Wälti",
+    "position": "MF",
+    "squad": "ch Switzerland",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 3.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 602,
+    "player": "Solai Washington",
+    "position": "MF,FW",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 17,
+      "born": 2005
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 603,
+    "player": "Yao Wei",
+    "position": "DF,MF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 604,
+    "player": "Hannah Wilkinson",
+    "position": "FW",
+    "squad": "nz New Zealand",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 2.8,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 2
+    }
+  },
+  {
+    "id": 605,
+    "player": "Lynn Williams",
+    "position": "FW",
+    "squad": "us USA",
+    "vitals": {
+      "age": 30,
+      "born": 1993
+    },
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 9,
+      "shots_on_target": 6
+    }
+  },
+  {
+    "id": 606,
+    "player": "Lynn Wilms",
+    "position": "DF,FW",
+    "squad": "nl Netherlands",
+    "vitals": {
+      "age": 22,
+      "born": 2000
+    },
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 607,
+    "player": "Mary Wilombe",
+    "position": "MF",
+    "squad": "zm Zambia",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 608,
+    "player": "Tiernny Wiltshire",
+    "position": "DF",
+    "squad": "jm Jamaica",
+    "vitals": {
+      "age": 25,
+      "born": 1998
+    },
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 609,
+    "player": "Zhang Xin",
+    "position": "FW,MF",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 610,
+    "player": "Tameka Yallop",
+    "position": "MF",
+    "squad": "au Australia",
+    "vitals": {
+      "age": 31,
+      "born": 1991
+    },
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 611,
+    "player": "Ayaka Yamashita",
+    "position": "GK",
+    "squad": "jp Japan",
+    "vitals": {
+      "age": 27,
+      "born": 1995
+    },
+    "stats": {
+      "90s": 5.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 612,
+    "player": "Gu Yasha",
+    "position": "MF,FW",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 613,
+    "player": "Yoon Young-geul",
+    "position": "GK",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 35,
+      "born": 1987
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 614,
+    "player": "Lee Young-ju",
+    "position": "MF",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 31,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 615,
+    "player": "Zhu Yu",
+    "position": "GK",
+    "squad": "cn China PR",
+    "vitals": {
+      "age": 25,
+      "born": 1997
+    },
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 616,
+    "player": "Choe Yu-ri",
+    "position": "MF,FW",
+    "squad": "kr Korea Republic",
+    "vitals": {
+      "age": 28,
+      "born": 1994
+    },
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    }
+  },
+  {
+    "id": 617,
+    "player": "Shelina Zadorsky",
+    "position": "DF",
+    "squad": "ca Canada",
+    "vitals": {
+      "age": 30,
+      "born": 1992
+    },
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 618,
+    "player": "Katie Zelem",
+    "position": "MF",
+    "squad": "en England",
+    "vitals": {
+      "age": 27,
+      "born": 1996
+    },
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  },
+  {
+    "id": 619,
+    "player": "Claudia Zornoza",
+    "position": "MF",
+    "squad": "es Spain",
+    "vitals": {
+      "age": 32,
+      "born": 1990
+    },
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    }
+  }
+]

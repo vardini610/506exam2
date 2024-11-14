@@ -1,0 +1,1497 @@
+[
+  {
+    "id": 17,
+    "player": "Nguyễn Thị Mỹ Anh",
+    "position": "DF|MF",
+    "squad": "Vietnam",
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "VN"
+  },
+  {
+    "id": 26,
+    "player": "Viviane Asseyi",
+    "position": "FW|MF",
+    "squad": "France",
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "FR"
+  },
+  {
+    "id": 27,
+    "player": "Izzy Atkinson",
+    "position": "MF|DF",
+    "squad": "Rep. of Ireland",
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "IE"
+  },
+  {
+    "id": 31,
+    "player": "Ramona Bachmann",
+    "position": "MF|FW",
+    "squad": "Switzerland",
+    "stats": {
+      "90s": 3.7,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 0
+    },
+    "country_code": "CH"
+  },
+  {
+    "id": 39,
+    "player": "Estefanía Banini",
+    "position": "MF|FW",
+    "squad": "Argentina",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "AR"
+  },
+  {
+    "id": 45,
+    "player": "Beatriz",
+    "position": "FW|MF",
+    "squad": "Brazil",
+    "stats": {
+      "90s": 1.3,
+      "goals": 1,
+      "shots": 9,
+      "shots_on_target": 3
+    },
+    "country_code": "BR"
+  },
+  {
+    "id": 47,
+    "player": "Vicki Bècho",
+    "position": "MF|FW",
+    "squad": "France",
+    "stats": {
+      "90s": 2.5,
+      "goals": 1,
+      "shots": 6,
+      "shots_on_target": 4
+    },
+    "country_code": "FR"
+  },
+  {
+    "id": 67,
+    "player": "Florencia Bonsegundo",
+    "position": "FW|MF",
+    "squad": "Argentina",
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 2
+    },
+    "country_code": "AR"
+  },
+  {
+    "id": 68,
+    "player": "Roselord Borgella",
+    "position": "FW|MF",
+    "squad": "Haiti",
+    "stats": {
+      "90s": 2.1,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 0
+    },
+    "country_code": "HT"
+  },
+  {
+    "id": 76,
+    "player": "Sophia Braun",
+    "position": "MF|DF",
+    "squad": "Argentina",
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "AR"
+  },
+  {
+    "id": 85,
+    "player": "Ryley Bugay",
+    "position": "MF|DF",
+    "squad": "Philippines",
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "PH"
+  },
+  {
+    "id": 93,
+    "player": "Viola Calligaris",
+    "position": "DF|MF",
+    "squad": "Switzerland",
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CH"
+  },
+  {
+    "id": 94,
+    "player": "Tiffany Cameron",
+    "position": "DF|MF",
+    "squad": "Jamaica",
+    "stats": {
+      "90s": 1.7,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "JM"
+  },
+  {
+    "id": 96,
+    "player": "Ana Capeta",
+    "position": "FW|MF",
+    "squad": "Portugal",
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "PT"
+  },
+  {
+    "id": 105,
+    "player": "Kerstin Casparij",
+    "position": "FW|DF",
+    "squad": "Netherlands",
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "NL"
+  },
+  {
+    "id": 108,
+    "player": "Emily Cedeño",
+    "position": "FW|MF",
+    "squad": "Panama",
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    },
+    "country_code": "PA"
+  },
+  {
+    "id": 112,
+    "player": "Ivonne Chacón",
+    "position": "MF|FW",
+    "squad": "Colombia",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    },
+    "country_code": "CO"
+  },
+  {
+    "id": 114,
+    "player": "Kang Chae-rim",
+    "position": "FW|MF",
+    "squad": "Korea Republic",
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "KR"
+  },
+  {
+    "id": 115,
+    "player": "Olivia Chance",
+    "position": "FW|MF",
+    "squad": "New Zealand",
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "NZ"
+  },
+  {
+    "id": 118,
+    "player": "Niamh Charles",
+    "position": "DF|MF",
+    "squad": "England",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "EN"
+  },
+  {
+    "id": 122,
+    "player": "Wu Chengshu",
+    "position": "FW|MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 125,
+    "player": "Priscila Chinchilla",
+    "position": "FW|MF",
+    "squad": "Costa Rica",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CR"
+  },
+  {
+    "id": 126,
+    "player": "Avell Chitundu",
+    "position": "MF|FW",
+    "squad": "Zambia",
+    "stats": {
+      "90s": 1.7,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    },
+    "country_code": "ZM"
+  },
+  {
+    "id": 136,
+    "player": "María Coto",
+    "position": "DF|MF",
+    "squad": "Costa Rica",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    },
+    "country_code": "CR"
+  },
+  {
+    "id": 138,
+    "player": "Marta Cox",
+    "position": "MF|FW",
+    "squad": "Panama",
+    "stats": {
+      "90s": 2.9,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 4
+    },
+    "country_code": "PA"
+  },
+  {
+    "id": 139,
+    "player": "Ana-Maria Crnogorčević",
+    "position": "FW|MF",
+    "squad": "Switzerland",
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 5,
+      "shots_on_target": 2
+    },
+    "country_code": "CH"
+  },
+  {
+    "id": 154,
+    "player": "Caitlin Dijkstra",
+    "position": "MF|DF",
+    "squad": "Netherlands",
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "NL"
+  },
+  {
+    "id": 166,
+    "player": "Onome Ebi",
+    "position": "DF|MF",
+    "squad": "Nigeria",
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "NG"
+  },
+  {
+    "id": 167,
+    "player": "Jennifer Echegini",
+    "position": "MF|FW",
+    "squad": "Nigeria",
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "NG"
+  },
+  {
+    "id": 169,
+    "player": "Emily van Egmond",
+    "position": "FW|MF",
+    "squad": "Australia",
+    "stats": {
+      "90s": 4.0,
+      "goals": 1,
+      "shots": 9,
+      "shots_on_target": 2
+    },
+    "country_code": "AU"
+  },
+  {
+    "id": 174,
+    "player": "Jun Endō",
+    "position": "MF|DF",
+    "squad": "Japan",
+    "stats": {
+      "90s": 3.3,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "JP"
+  },
+  {
+    "id": 175,
+    "player": "Bethany England",
+    "position": "FW|MF",
+    "squad": "England",
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    },
+    "country_code": "EN"
+  },
+  {
+    "id": 183,
+    "player": "Park Eun-sun",
+    "position": "FW|MF",
+    "squad": "Korea Republic",
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    },
+    "country_code": "KR"
+  },
+  {
+    "id": 187,
+    "player": "Sinead Farrelly",
+    "position": "FW|MF",
+    "squad": "Rep. of Ireland",
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "IE"
+  },
+  {
+    "id": 190,
+    "player": "Isabella Flanigan",
+    "position": "MF|FW",
+    "squad": "Philippines",
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "PH"
+  },
+  {
+    "id": 192,
+    "player": "Caitlin Foord",
+    "position": "MF|FW",
+    "squad": "Australia",
+    "stats": {
+      "90s": 7.3,
+      "goals": 1,
+      "shots": 16,
+      "shots_on_target": 2
+    },
+    "country_code": "AU"
+  },
+  {
+    "id": 198,
+    "player": "Aoba Fujino",
+    "position": "FW|MF",
+    "squad": "Japan",
+    "stats": {
+      "90s": 4.0,
+      "goals": 1,
+      "shots": 13,
+      "shots_on_target": 4
+    },
+    "country_code": "JP"
+  },
+  {
+    "id": 202,
+    "player": "Bongeka Gamede",
+    "position": "MF|DF",
+    "squad": "South Africa",
+    "stats": {
+      "90s": 4.0,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    },
+    "country_code": "ZA"
+  },
+  {
+    "id": 203,
+    "player": "Mille Gejl",
+    "position": "FW|MF",
+    "squad": "Denmark",
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    },
+    "country_code": "DK"
+  },
+  {
+    "id": 204,
+    "player": "Lee Geum-min",
+    "position": "MF|FW",
+    "squad": "Korea Republic",
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "KR"
+  },
+  {
+    "id": 207,
+    "player": "Geyse",
+    "position": "FW|MF",
+    "squad": "Brazil",
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    },
+    "country_code": "BR"
+  },
+  {
+    "id": 225,
+    "player": "Giada Greggi",
+    "position": "MF|FW",
+    "squad": "Italy",
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "IT"
+  },
+  {
+    "id": 230,
+    "player": "Katrina Guillou",
+    "position": "FW|MF",
+    "squad": "Philippines",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 0
+    },
+    "country_code": "PH"
+  },
+  {
+    "id": 240,
+    "player": "Pernille Harder",
+    "position": "MF|FW",
+    "squad": "Denmark",
+    "stats": {
+      "90s": 4.0,
+      "goals": 1,
+      "shots": 10,
+      "shots_on_target": 4
+    },
+    "country_code": "DK"
+  },
+  {
+    "id": 251,
+    "player": "Jennifer Hermoso",
+    "position": "MF|FW",
+    "squad": "Spain",
+    "stats": {
+      "90s": 7.2,
+      "goals": 3,
+      "shots": 19,
+      "shots_on_target": 6
+    },
+    "country_code": "ES"
+  },
+  {
+    "id": 253,
+    "player": "Oihane Hernández",
+    "position": "DF|FW",
+    "squad": "Spain",
+    "stats": {
+      "90s": 3.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "ES"
+  },
+  {
+    "id": 254,
+    "player": "Melissa Herrera",
+    "position": "FW|MF",
+    "squad": "Costa Rica",
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 1
+    },
+    "country_code": "CR"
+  },
+  {
+    "id": 256,
+    "player": "Sibulele Holweni",
+    "position": "DF|MF",
+    "squad": "South Africa",
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "ZA"
+  },
+  {
+    "id": 263,
+    "player": "Lina Hurtig",
+    "position": "FW|MF",
+    "squad": "Sweden",
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "SE"
+  },
+  {
+    "id": 268,
+    "player": "Choo Hyo-joo",
+    "position": "DF|FW",
+    "squad": "Korea Republic",
+    "stats": {
+      "90s": 2.5,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "KR"
+  },
+  {
+    "id": 275,
+    "player": "Sofia Jakobsson",
+    "position": "FW|MF",
+    "squad": "Sweden",
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 2
+    },
+    "country_code": "SE"
+  },
+  {
+    "id": 276,
+    "player": "Grace Jale",
+    "position": "FW|MF",
+    "squad": "New Zealand",
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 1
+    },
+    "country_code": "NZ"
+  },
+  {
+    "id": 277,
+    "player": "Lauren James",
+    "position": "MF|FW",
+    "squad": "England",
+    "stats": {
+      "90s": 3.7,
+      "goals": 3,
+      "shots": 9,
+      "shots_on_target": 6
+    },
+    "country_code": "EN"
+  },
+  {
+    "id": 295,
+    "player": "Sarah Kassi",
+    "position": "DF|MF",
+    "squad": "Morocco",
+    "stats": {
+      "90s": 1.5,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "MA"
+  },
+  {
+    "id": 302,
+    "player": "Melinda Kgadiete",
+    "position": "FW|MF",
+    "squad": "South Africa",
+    "stats": {
+      "90s": 0.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "ZA"
+  },
+  {
+    "id": 307,
+    "player": "Racheal Kundananji",
+    "position": "MF|FW",
+    "squad": "Zambia",
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 8,
+      "shots_on_target": 5
+    },
+    "country_code": "ZM"
+  },
+  {
+    "id": 311,
+    "player": "Abbie Larkin",
+    "position": "FW|MF",
+    "squad": "Rep. of Ireland",
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    },
+    "country_code": "IE"
+  },
+  {
+    "id": 331,
+    "player": "Zhang Linyan",
+    "position": "MF|FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 342,
+    "player": "Rikke Madsen",
+    "position": "FW|DF",
+    "squad": "Denmark",
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    },
+    "country_code": "DK"
+  },
+  {
+    "id": 343,
+    "player": "Hildah Magaia",
+    "position": "FW|MF",
+    "squad": "South Africa",
+    "stats": {
+      "90s": 3.6,
+      "goals": 2,
+      "shots": 6,
+      "shots_on_target": 4
+    },
+    "country_code": "ZA"
+  },
+  {
+    "id": 346,
+    "player": "Tiisetso Makhubela",
+    "position": "DF|MF",
+    "squad": "South Africa",
+    "stats": {
+      "90s": 1.0,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "ZA"
+  },
+  {
+    "id": 347,
+    "player": "Xiomara Mapepa",
+    "position": "MF|FW",
+    "squad": "Zambia",
+    "stats": {
+      "90s": 1.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "ZM"
+  },
+  {
+    "id": 350,
+    "player": "Marta",
+    "position": "FW|MF",
+    "squad": "Brazil",
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 3
+    },
+    "country_code": "BR"
+  },
+  {
+    "id": 353,
+    "player": "Clara Matéo",
+    "position": "FW|MF",
+    "squad": "France",
+    "stats": {
+      "90s": 1.7,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    },
+    "country_code": "FR"
+  },
+  {
+    "id": 356,
+    "player": "Cheyna Matthews",
+    "position": "MF|FW",
+    "squad": "Jamaica",
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "JM"
+  },
+  {
+    "id": 360,
+    "player": "Katie McCabe",
+    "position": "MF|DF",
+    "squad": "Rep. of Ireland",
+    "stats": {
+      "90s": 3.0,
+      "goals": 1,
+      "shots": 6,
+      "shots_on_target": 2
+    },
+    "country_code": "IE"
+  },
+  {
+    "id": 367,
+    "player": "Shen Mengyu",
+    "position": "MF|FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 369,
+    "player": "Moon Mi-ra",
+    "position": "DF|FW",
+    "squad": "Korea Republic",
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "KR"
+  },
+  {
+    "id": 371,
+    "player": "Natalia Mills",
+    "position": "MF|FW",
+    "squad": "Panama",
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "PA"
+  },
+  {
+    "id": 374,
+    "player": "Hinata Miyazawa",
+    "position": "FW|MF",
+    "squad": "Japan",
+    "stats": {
+      "90s": 3.7,
+      "goals": 5,
+      "shots": 13,
+      "shots_on_target": 6
+    },
+    "country_code": "JP"
+  },
+  {
+    "id": 379,
+    "player": "Carmen Montenegro",
+    "position": "MF|DF",
+    "squad": "Panama",
+    "stats": {
+      "90s": 0.9,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "PA"
+  },
+  {
+    "id": 384,
+    "player": "Miyabi Moriya",
+    "position": "MF|DF",
+    "squad": "Japan",
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "JP"
+  },
+  {
+    "id": 386,
+    "player": "Linda Motlhalo",
+    "position": "MF|FW",
+    "squad": "South Africa",
+    "stats": {
+      "90s": 3.6,
+      "goals": 1,
+      "shots": 4,
+      "shots_on_target": 2
+    },
+    "country_code": "ZA"
+  },
+  {
+    "id": 397,
+    "player": "Hikaru Naomoto",
+    "position": "MF|FW",
+    "squad": "Japan",
+    "stats": {
+      "90s": 2.0,
+      "goals": 1,
+      "shots": 7,
+      "shots_on_target": 4
+    },
+    "country_code": "JP"
+  },
+  {
+    "id": 407,
+    "player": "Romina Núñez",
+    "position": "MF|FW",
+    "squad": "Argentina",
+    "stats": {
+      "90s": 2.3,
+      "goals": 1,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "AR"
+  },
+  {
+    "id": 418,
+    "player": "Francisca Ordega",
+    "position": "FW|MF",
+    "squad": "Nigeria",
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    },
+    "country_code": "NG"
+  },
+  {
+    "id": 426,
+    "player": "María Paula Elizondo",
+    "position": "DF|MF",
+    "squad": "Costa Rica",
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CR"
+  },
+  {
+    "id": 427,
+    "player": "Heather Payne",
+    "position": "MF|DF",
+    "squad": "Rep. of Ireland",
+    "stats": {
+      "90s": 1.9,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "IE"
+  },
+  {
+    "id": 429,
+    "player": "Victoria Pelova",
+    "position": "FW|MF",
+    "squad": "Netherlands",
+    "stats": {
+      "90s": 4.8,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "NL"
+  },
+  {
+    "id": 437,
+    "player": "Casey Phair",
+    "position": "FW|DF",
+    "squad": "Korea Republic",
+    "stats": {
+      "90s": 1.2,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "KR"
+  },
+  {
+    "id": 444,
+    "player": "Seraina Piubel",
+    "position": "MF|FW",
+    "squad": "Switzerland",
+    "stats": {
+      "90s": 3.7,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 3
+    },
+    "country_code": "CH"
+  },
+  {
+    "id": 447,
+    "player": "Alexandra Popp",
+    "position": "FW|MF",
+    "squad": "Germany",
+    "stats": {
+      "90s": 2.9,
+      "goals": 4,
+      "shots": 14,
+      "shots_on_target": 7
+    },
+    "country_code": "DE"
+  },
+  {
+    "id": 448,
+    "player": "Atlanta Primus",
+    "position": "MF|FW",
+    "squad": "Jamaica",
+    "stats": {
+      "90s": 3.2,
+      "goals": 0,
+      "shots": 6,
+      "shots_on_target": 0
+    },
+    "country_code": "JM"
+  },
+  {
+    "id": 461,
+    "player": "Dominique Randle",
+    "position": "DF|MF",
+    "squad": "Philippines",
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "PH"
+  },
+  {
+    "id": 471,
+    "player": "Marcela Restrepo",
+    "position": "MF|FW",
+    "squad": "Colombia",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CO"
+  },
+  {
+    "id": 476,
+    "player": "Indiah-Paige Riley",
+    "position": "MF|FW",
+    "squad": "New Zealand",
+    "stats": {
+      "90s": 2.0,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "NZ"
+  },
+  {
+    "id": 482,
+    "player": "Yamila Rodríguez",
+    "position": "FW|MF",
+    "squad": "Argentina",
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "AR"
+  },
+  {
+    "id": 483,
+    "player": "Fridolina Rolfö",
+    "position": "FW|MF",
+    "squad": "Sweden",
+    "stats": {
+      "90s": 5.5,
+      "goals": 3,
+      "shots": 10,
+      "shots_on_target": 3
+    },
+    "country_code": "SE"
+  },
+  {
+    "id": 491,
+    "player": "Johanna Rytting Kaneryd",
+    "position": "FW|DF",
+    "squad": "Sweden",
+    "stats": {
+      "90s": 5.6,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "SE"
+  },
+  {
+    "id": 501,
+    "player": "Leicy Santos",
+    "position": "MF|FW",
+    "squad": "Colombia",
+    "stats": {
+      "90s": 4.2,
+      "goals": 1,
+      "shots": 9,
+      "shots_on_target": 3
+    },
+    "country_code": "CO"
+  },
+  {
+    "id": 505,
+    "player": "Olivia Schough",
+    "position": "FW|MF",
+    "squad": "Sweden",
+    "stats": {
+      "90s": 1.4,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "SE"
+  },
+  {
+    "id": 506,
+    "player": "Lea Schüller",
+    "position": "FW|MF",
+    "squad": "Germany",
+    "stats": {
+      "90s": 1.6,
+      "goals": 1,
+      "shots": 4,
+      "shots_on_target": 1
+    },
+    "country_code": "DE"
+  },
+  {
+    "id": 510,
+    "player": "Kiko Seike",
+    "position": "DF|MF",
+    "squad": "Japan",
+    "stats": {
+      "90s": 0.5,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    },
+    "country_code": "JP"
+  },
+  {
+    "id": 512,
+    "player": "Linda Sembrant",
+    "position": "DF|FW",
+    "squad": "Sweden",
+    "stats": {
+      "90s": 0.3,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "SE"
+  },
+  {
+    "id": 515,
+    "player": "Jermaine Seoposenwe",
+    "position": "FW|MF",
+    "squad": "South Africa",
+    "stats": {
+      "90s": 3.3,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 2
+    },
+    "country_code": "ZA"
+  },
+  {
+    "id": 522,
+    "player": "Marissa Sheva",
+    "position": "FW|DF",
+    "squad": "Rep. of Ireland",
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "IE"
+  },
+  {
+    "id": 523,
+    "player": "Risa Shimizu",
+    "position": "MF|DF",
+    "squad": "Japan",
+    "stats": {
+      "90s": 4.6,
+      "goals": 1,
+      "shots": 5,
+      "shots_on_target": 1
+    },
+    "country_code": "JP"
+  },
+  {
+    "id": 525,
+    "player": "Wang Shuang",
+    "position": "FW|MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 1.8,
+      "goals": 2,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 529,
+    "player": "Kameron Simmonds",
+    "position": "FW|MF",
+    "squad": "Jamaica",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "JM"
+  },
+  {
+    "id": 530,
+    "player": "Christine Sinclair",
+    "position": "FW|MF",
+    "squad": "Canada",
+    "stats": {
+      "90s": 1.8,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    },
+    "country_code": "CA"
+  },
+  {
+    "id": 550,
+    "player": "Hina Sugita",
+    "position": "DF|MF",
+    "squad": "Japan",
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "JP"
+  },
+  {
+    "id": 557,
+    "player": "Karina Sævik",
+    "position": "FW|MF",
+    "squad": "Norway",
+    "stats": {
+      "90s": 0.8,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "NO"
+  },
+  {
+    "id": 559,
+    "player": "Nicoline Sørensen",
+    "position": "FW|MF",
+    "squad": "Denmark",
+    "stats": {
+      "90s": 1.6,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "DK"
+  },
+  {
+    "id": 564,
+    "player": "Riley Tanner",
+    "position": "FW|MF",
+    "squad": "Panama",
+    "stats": {
+      "90s": 2.3,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "PA"
+  },
+  {
+    "id": 566,
+    "player": "Meriame Terchoun",
+    "position": "FW|MF",
+    "squad": "Switzerland",
+    "stats": {
+      "90s": 0.6,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 2
+    },
+    "country_code": "CH"
+  },
+  {
+    "id": 578,
+    "player": "Janni Thomsen",
+    "position": "DF|FW",
+    "squad": "Denmark",
+    "stats": {
+      "90s": 3.9,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 0
+    },
+    "country_code": "DK"
+  },
+  {
+    "id": 588,
+    "player": "Catalina Usme",
+    "position": "FW|MF",
+    "squad": "Colombia",
+    "stats": {
+      "90s": 5.0,
+      "goals": 2,
+      "shots": 7,
+      "shots_on_target": 2
+    },
+    "country_code": "CO"
+  },
+  {
+    "id": 597,
+    "player": "Gloriana Villalobos",
+    "position": "MF|FW",
+    "squad": "Costa Rica",
+    "stats": {
+      "90s": 2.1,
+      "goals": 0,
+      "shots": 2,
+      "shots_on_target": 1
+    },
+    "country_code": "CR"
+  },
+  {
+    "id": 598,
+    "player": "Cortnee Vine",
+    "position": "MF|DF",
+    "squad": "Australia",
+    "stats": {
+      "90s": 2.8,
+      "goals": 0,
+      "shots": 4,
+      "shots_on_target": 3
+    },
+    "country_code": "AU"
+  },
+  {
+    "id": 602,
+    "player": "Solai Washington",
+    "position": "MF|FW",
+    "squad": "Jamaica",
+    "stats": {
+      "90s": 0.4,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "JM"
+  },
+  {
+    "id": 603,
+    "player": "Yao Wei",
+    "position": "DF|MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 3.0,
+      "goals": 0,
+      "shots": 1,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 606,
+    "player": "Lynn Wilms",
+    "position": "DF|FW",
+    "squad": "Netherlands",
+    "stats": {
+      "90s": 0.7,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "NL"
+  },
+  {
+    "id": 609,
+    "player": "Zhang Xin",
+    "position": "FW|MF",
+    "squad": "China PR",
+    "stats": {
+      "90s": 1.1,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 612,
+    "player": "Gu Yasha",
+    "position": "MF|FW",
+    "squad": "China PR",
+    "stats": {
+      "90s": 0.2,
+      "goals": 0,
+      "shots": 0,
+      "shots_on_target": 0
+    },
+    "country_code": "CN"
+  },
+  {
+    "id": 616,
+    "player": "Choe Yu-ri",
+    "position": "MF|FW",
+    "squad": "Korea Republic",
+    "stats": {
+      "90s": 2.4,
+      "goals": 0,
+      "shots": 3,
+      "shots_on_target": 1
+    },
+    "country_code": "KR"
+  }
+]
